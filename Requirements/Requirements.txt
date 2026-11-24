@@ -1,1 +1,7 @@
-
+Python                        3.13.5
+numpy                         2.2.2
+pandas                        2.2.3
+scikit-learn                  1.6.1
+Boruta                        0.4.3
+itertools                     10.7.0
+sklearn-genetic-opt           0.11.1
