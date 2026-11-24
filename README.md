@@ -25,7 +25,7 @@ Among all evaluated approaches, the combination of **Mutual Information-Minimum-
 
 
 
-![image alt]()
+![image alt](https://github.com/PlantSystemsBio/Rice-Drought-Heat-Predictive-Gene-Panels/blob/6031f4b7e26f7d8c2120b31eb50713a7e9e6039e/Workflow/Workflow.jpg)
 
 
 ---
