@@ -90,16 +90,6 @@ This repository contains computationally intensive feature selection and deep le
 
 Users are strongly encouraged to execute these analyses on high-performance computing (HPC) systems, dedicated workstations, or cloud computing platforms. Running the full workflow on resource-limited personal computers may result in excessive execution times, high memory consumption, or process termination due to insufficient computational resources.
 
-## Author
-
-**Dr. Masoud Shahsavari**
-
-Department of Agronomy and Plant Breeding
-College of Agriculture and Natural Resources
-University of Tehran
-Karaj, Iran
-
-Email: [mshahsavari@ut.ac.ir](mailto:mshahsavari@ut.ac.ir)
 
 ---
 
